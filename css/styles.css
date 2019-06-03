@@ -1386,13 +1386,14 @@ img[alt="logo-4"] {
     }
 
     .video-button {
+        visibility: hidden;
         width: 80px;
         height: 80px;
     }
 
     .s5 h2 {
         font-size: 18px;
-        margin-top: 5px;
+        margin-top: 10px;
     }
 
     .s5 p, .s5 time {
