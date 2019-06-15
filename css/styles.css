@@ -1283,8 +1283,10 @@ img[alt="logo-4"] {
         visibility: hidden;
         display: flex;
         flex-direction: column;
-        margin: 0px auto 0px auto;
+        margin: 70px auto 0px auto;
         width: 100%;
+        position: absolute;
+        background-color: #ffffff;
     }
 
     .menu li {
@@ -1299,7 +1301,7 @@ img[alt="logo-4"] {
     }
 
     .menu li a {
-        color: #000000;
+        color: #ffffff;
         font-weight: bolder;
         font-size: 18px;
         padding: 5px 25px 5px 25px;
