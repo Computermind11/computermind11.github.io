@@ -1286,6 +1286,10 @@ img[alt="logo-4"] {
         color: #ffffff;
     }
 
+    .menu li a:hover {
+        color: lightyellow;
+    }
+
     /* first section's start */
     .carousel {
         display: none;
