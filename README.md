@@ -1,2 +1,2 @@
 # computermind11
-Repository for my work
+Repository for my work.
